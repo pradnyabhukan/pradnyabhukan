@@ -14,3 +14,6 @@ Happy coding! 😄
 <a href="https://github.com/pradnyabhukan/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyabhukan&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradnyabhukan&theme=tokyonight" alt="pradnyabhukan" />
 <br/>
+![](https://komarev.com/ghpvc/?username=pradnyabhukan&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=pradnyabhukan)
+<img src="https://img.shields.io/github/forks/pradnyabhukan/pradnyabhukan?style=social"></img>
