@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213765655-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
+<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/213765655-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400"> -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 <!-- <br/><br/> -->
 I'm Pradnya Bhukan, a passionate Frontend Developer on a journey of constant upskilling and growth. Welcome to my GitHub profile!
 <br/>
