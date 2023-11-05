@@ -17,7 +17,6 @@ Happy coding! 😄
 
 
 <h2> Github Stats </h2> 
-<img src="https://github-readme-stats.vercel.app/api?username=pradnyabhukan&show_icons=true&count_private=true" alt="pradnyabhukan" />
 <a href="https://github.com/pradnyabhukan/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyabhukan&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradnyabhukan&theme=tokyonight" alt="pradnyabhukan" />
 <br/>
